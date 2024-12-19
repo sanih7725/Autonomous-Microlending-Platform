@@ -1,0 +1,13 @@
+
+N
+contracts/loan-management.clar,5/c/5c3c50b913b89f4599785a003d3a6459304fddfe
+M
+tests/loan-management.test.ts,6/b/6b1bcc5eb00947f78a30c490e24b085ca5e91c9b
+N
+contracts/risk-assessment.clar,9/b/9bd619b8006324502bc6596111bafe5f91076bc2
+M
+tests/risk-assessment.test.ts,e/9/e9e6a96a70c2cbf19d963c4403d69d9c6dc859d9
+P
+ contracts/reputation-system.clar,8/f/8f85a02c68bbab1632e6c7d1d0725529f935513d
+O
+tests/reputation-system.test.ts,6/9/6907ff0c07493f1fa039cd71e6369818d97c7647
