@@ -40,12 +40,12 @@ describe('Loan Management Contract', () => {
         borrower: 'ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM',
         lender: 'ST2CY5V39NHDPWSXMW9QDT3HC3GD6Q6XX4CFRK9AG',
         amount: 1000,
-        interest-rate: 500,
+        interestRate: 500,
         term: 100,
-    start-block: 12345,
+        startBlock: 12345,
         status: 'active'
-  }
-  })
+      }
+    })
     const result = await mockContractCall('get-loan', 1)
     expect(result.success).toBe(true)
     expect(result.value.borrower).toBe('ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM')
